@@ -20,7 +20,7 @@ Clustering provides a data-driven way to answer these questions.
 
 ---
 
-## 🧑‍💻 Methods
+## Methods
 1. **Exploratory Data Analysis (EDA)**  
    - Gender distribution, age, income, and spending visualizations.  
    - Correlation heatmap.  
